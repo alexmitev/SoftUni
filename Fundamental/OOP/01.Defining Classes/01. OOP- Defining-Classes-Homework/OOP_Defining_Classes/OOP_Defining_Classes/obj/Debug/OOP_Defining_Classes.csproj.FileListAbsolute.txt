@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\bin\Debug\OOP_Defining_Classes.exe.config
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\bin\Debug\OOP_Defining_Classes.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\bin\Debug\OOP_Defining_Classes.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\obj\Debug\OOP_Defining_Classes.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\obj\Debug\OOP_Defining_Classes.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\OOP_Defining_Classes\obj\Debug\OOP_Defining_Classes.pdb

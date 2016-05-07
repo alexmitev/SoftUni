@@ -1,0 +1,1 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\bin\Debug\3D_Point.exe.config

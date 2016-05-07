@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\bin\Debug\PC_Catalog.exe.config
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\bin\Debug\PC_Catalog.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\bin\Debug\PC_Catalog.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\obj\Debug\03.PC_Catalog.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\obj\Debug\PC_Catalog.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\Defining Classes\01. OOP- Defining-Classes-Homework\OOP_Defining_Classes\PC_Catalog\obj\Debug\PC_Catalog.pdb

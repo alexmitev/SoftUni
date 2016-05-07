@@ -1,0 +1,8 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\bin\Debug\Path3D.exe.config
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\bin\Debug\Path3D.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\bin\Debug\Path3D.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\bin\Debug\3D_Point.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\bin\Debug\3D_Point.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\obj\Debug\03.Path3D.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\obj\Debug\Path3D.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Path3D\obj\Debug\Path3D.pdb

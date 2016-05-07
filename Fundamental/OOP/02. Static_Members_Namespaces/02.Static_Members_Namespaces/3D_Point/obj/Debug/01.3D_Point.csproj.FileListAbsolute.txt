@@ -1,0 +1,6 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\bin\Debug\3D_Point.exe.config
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\bin\Debug\3D_Point.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\bin\Debug\3D_Point.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\obj\Debug\01.3D_Point.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\obj\Debug\3D_Point.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\3D_Point\obj\Debug\3D_Point.pdb

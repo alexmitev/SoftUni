@@ -1,0 +1,10 @@
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\bin\Debug\Distance_Calculator.exe.config
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\obj\Debug\02.Distance_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\obj\Debug\Distance_Calculator.Properties.Resources.resources
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\obj\Debug\02.Distance_Calculator.csproj.GenerateResource.Cache
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\bin\Debug\Distance_Calculator.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\bin\Debug\Distance_Calculator.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\bin\Debug\3D_Point.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\bin\Debug\3D_Point.pdb
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\obj\Debug\Distance_Calculator.exe
+C:\Users\miteval\OneDrive\SoftUni\Fundamental\OOP\02. Static_Members_Namespaces\02.Static_Members_Namespaces\Distance_Calculator\obj\Debug\Distance_Calculator.pdb
