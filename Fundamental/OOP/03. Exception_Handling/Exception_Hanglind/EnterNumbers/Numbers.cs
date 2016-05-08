@@ -30,33 +30,35 @@ namespace EnterNumbers
             int counter = 0;
             while (counter < 10)
             {
-                
+                Console.WriteLine("Please enter a number");
                 int num;
-                try
-                {   
-                    Console.WriteLine("Please enter a number");
-                     num = int.Parse(Console.ReadLine());
-                    ReadNumber(start, end, num);
-                    counter++;
-                }
-                catch (FormatException)
+                while (true)
                 {
-                    Console.WriteLine("Please enter do not enter anything else, but a valid integer");
-                    num = int.Parse(Console.ReadLine());
-                    ReadNumber(start, end, num);
-                }
-                catch (ArgumentOutOfRangeException)
-                {
-                    Console.WriteLine("Please enter a valid number");
-                     num = int.Parse(Console.ReadLine());
-                    ReadNumber(start, end, num);
-                }
-              
-                catch (Exception)
-                {
-                    Console.WriteLine("Please enter do not enter anything else, but a valid integer");
-                    num = int.Parse(Console.ReadLine());
-                    ReadNumber(start, end, num);
+                    try
+                    {
+                        
+                        num = int.Parse(Console.ReadLine());
+                        ReadNumber(start, end, num);
+                        counter++;
+                        break;
+                        
+                    }
+                    catch (FormatException)
+                    {
+                        Console.WriteLine("Please enter do not enter anything else, but a valid integer");
+                       
+                    }
+                    catch (ArgumentOutOfRangeException)
+                    {
+                        Console.WriteLine("Please enter a valid number");
+                        
+                    }
+
+                    catch (Exception)
+                    {
+                        Console.WriteLine("Please enter do not enter anything else, but a valid integer");
+                      
+                    }
                 }
             }
            
