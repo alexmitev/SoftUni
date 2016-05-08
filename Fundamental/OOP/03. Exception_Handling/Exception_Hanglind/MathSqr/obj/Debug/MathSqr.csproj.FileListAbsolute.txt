@@ -1,0 +1,6 @@
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\bin\Debug\MathSqr.exe.config
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\bin\Debug\MathSqr.exe
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\bin\Debug\MathSqr.pdb
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\obj\Debug\MathSqr.csprojResolveAssemblyReference.cache
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\obj\Debug\MathSqr.exe
+C:\Users\miteval\Documents\GitHub\SoftUni\Fundamental\OOP\03. Exception_Handling\Exception_Hanglind\MathSqr\obj\Debug\MathSqr.pdb
