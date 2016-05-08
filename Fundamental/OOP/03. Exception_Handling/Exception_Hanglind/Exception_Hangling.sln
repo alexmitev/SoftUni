@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathSqr", "MathSqr\MathSqr.csproj", "{BCC621EB-CDEB-406D-A5FA-8DAD13AC053D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "EnterNumbers\EnterNumbers.csproj", "{C028078F-62A3-4A03-9511-776790EC2EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BCC621EB-CDEB-406D-A5FA-8DAD13AC053D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCC621EB-CDEB-406D-A5FA-8DAD13AC053D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCC621EB-CDEB-406D-A5FA-8DAD13AC053D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C028078F-62A3-4A03-9511-776790EC2EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C028078F-62A3-4A03-9511-776790EC2EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C028078F-62A3-4A03-9511-776790EC2EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C028078F-62A3-4A03-9511-776790EC2EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
