@@ -11,7 +11,7 @@ namespace EnterNumbers
     {
         private static void ReadNumber(int start, int end, int num)
         {
-            if(num < start || num > end)
+            if (num < start || num > end)
             {
                 ThrowException();
             }
@@ -27,14 +27,22 @@ namespace EnterNumbers
             Console.WriteLine("Please enter begining and end numbers of the range");
             int start = int.Parse(Console.ReadLine());
             int end = int.Parse(Console.ReadLine());
-
-            for (int i = 0; i < 10; i++)
+            int counter = 0;
+            while (counter < 10)
             {
+                
                 int num;
                 try
                 {   
                     Console.WriteLine("Please enter a number");
                      num = int.Parse(Console.ReadLine());
+                    ReadNumber(start, end, num);
+                    counter++;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Please enter do not enter anything else, but a valid integer");
+                    num = int.Parse(Console.ReadLine());
                     ReadNumber(start, end, num);
                 }
                 catch (ArgumentOutOfRangeException)
@@ -43,12 +51,7 @@ namespace EnterNumbers
                      num = int.Parse(Console.ReadLine());
                     ReadNumber(start, end, num);
                 }
-                catch (FormatException)
-                {
-                    Console.WriteLine("Please enter do not enter anything else, but a valid integer");
-                    num = int.Parse(Console.ReadLine());
-                    ReadNumber(start, end, num);
-                }
+              
                 catch (Exception)
                 {
                     Console.WriteLine("Please enter do not enter anything else, but a valid integer");
