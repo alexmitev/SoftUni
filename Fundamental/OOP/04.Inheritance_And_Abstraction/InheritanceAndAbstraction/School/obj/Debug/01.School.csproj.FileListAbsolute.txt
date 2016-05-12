@@ -1,0 +1,6 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\bin\Debug\School.exe.config
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\bin\Debug\School.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\bin\Debug\School.pdb
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\obj\Debug\School.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\obj\Debug\School.pdb

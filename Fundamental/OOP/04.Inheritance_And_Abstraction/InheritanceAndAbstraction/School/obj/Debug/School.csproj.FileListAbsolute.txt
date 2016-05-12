@@ -1,0 +1,1 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\School\bin\Debug\School.exe.config
