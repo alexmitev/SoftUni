@@ -13,8 +13,10 @@ namespace Human_Studen_Worker
         public decimal WeekSalary { get; set; }
         public double WorkHoursPerDay { get; set; }
 
-        public Worker (string firstName, string secondName) : base(firstName,secondName)
+        public Worker (string firstName, string secondName, decimal weekSalary, double workHoursPerDay) : base(firstName,secondName)
         {
+            this.WeekSalary = weekSalary;
+            this.WorkHoursPerDay = workHoursPerDay;
 
         } 
         
