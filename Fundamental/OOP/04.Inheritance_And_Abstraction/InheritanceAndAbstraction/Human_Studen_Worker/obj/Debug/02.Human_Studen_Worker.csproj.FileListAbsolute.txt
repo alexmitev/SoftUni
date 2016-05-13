@@ -1,0 +1,6 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\bin\Debug\Human_Studen_Worker.exe.config
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\bin\Debug\Human_Studen_Worker.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\bin\Debug\Human_Studen_Worker.pdb
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\obj\Debug\Human_Studen_Worker.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\obj\Debug\Human_Studen_Worker.pdb
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Human_Studen_Worker\obj\Debug\02.Human_Studen_Worker.csprojResolveAssemblyReference.cache
