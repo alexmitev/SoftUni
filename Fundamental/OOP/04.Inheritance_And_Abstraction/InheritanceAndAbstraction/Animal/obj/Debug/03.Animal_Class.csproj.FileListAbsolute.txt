@@ -1,0 +1,6 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\bin\Debug\Animal.exe.config
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\bin\Debug\Animal.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\bin\Debug\Animal.pdb
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\obj\Debug\03.Animal_Class.csprojResolveAssemblyReference.cache
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\obj\Debug\Animal.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\04.Inheritance_And_Abstraction\InheritanceAndAbstraction\Animal\obj\Debug\Animal.pdb

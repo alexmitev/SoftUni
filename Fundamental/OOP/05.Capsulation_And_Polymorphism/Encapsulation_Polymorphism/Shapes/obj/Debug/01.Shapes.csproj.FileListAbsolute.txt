@@ -1,0 +1,6 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\bin\Debug\Shapes.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\bin\Debug\Shapes.pdb
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\obj\Debug\Shapes.exe
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\obj\Debug\Shapes.pdb

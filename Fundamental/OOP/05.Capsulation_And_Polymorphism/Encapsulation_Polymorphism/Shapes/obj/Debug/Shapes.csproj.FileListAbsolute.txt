@@ -1,0 +1,1 @@
+C:\Users\miteval\Documents\SoftUni\Fundamental\OOP\05.Capsulation_And_Polymorphism\Encapsulation_Polymorphism\Shapes\bin\Debug\Shapes.exe.config
