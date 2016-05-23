@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Bank
 {
-    interface InterestCalculatable
+   public interface IinterestCalculatable
     {
+        decimal CalculateInterest(double months);
     }
 }

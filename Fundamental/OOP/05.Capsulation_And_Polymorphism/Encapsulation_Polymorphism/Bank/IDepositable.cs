@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Bank
 {
-    interface IDepositable
+   public interface IDepositable
     {
+        void Deposit(decimal ammount);
     }
 }

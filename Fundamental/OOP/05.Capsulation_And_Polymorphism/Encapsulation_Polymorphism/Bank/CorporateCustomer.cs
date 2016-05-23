@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Bank
 {
-    class CorporateCustomer
+    public class CorporateCustomer : Customer
     {
+        public CorporateCustomer(string name) : base(name)
+        {
+
+        }
     }
 }
