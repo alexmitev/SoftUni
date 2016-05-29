@@ -1,0 +1,6 @@
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\bin\Debug\MultimediShop.exe.config
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\obj\Debug\MultimediShop.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\bin\Debug\MultimediShop.exe
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\bin\Debug\MultimediShop.pdb
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\obj\Debug\MultimediShop.exe
+C:\Users\alexa\Documents\SoftUni\Fundamental\OOP\Lab_MultimediaShop\MultimediShop\obj\Debug\MultimediShop.pdb
