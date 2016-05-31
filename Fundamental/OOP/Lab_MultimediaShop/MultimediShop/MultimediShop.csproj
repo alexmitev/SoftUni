@@ -54,6 +54,7 @@
     <Compile Include="ModelClasses\Rent.cs" />
     <Compile Include="ModelClasses\Sale.cs" />
     <Compile Include="ModelClasses\Video.cs" />
+    <Compile Include="ShopEngine\Engine.cs" />
     <Compile Include="TestMultimediaShop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
